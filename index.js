@@ -42,4 +42,4 @@ client.on('message', msg => {
       msg.channel.send(msg.author.toString() + ' ' + roller.rollDam(msg.content))
    }
 })
-client.login('NTYzMDY2MzkxNjg3NzI1MDY4.XKT6jQ.JzvTmHmdzIGMV80TNGBFZyKy2uQ')
+client.login('')
